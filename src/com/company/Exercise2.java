@@ -1,3 +1,5 @@
+package com.company;
+
 public class Exercise2 {
     public static void main(String[] args) {
         int sumEven = 1 + 3 + 5 + 7;

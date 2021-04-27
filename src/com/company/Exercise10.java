@@ -1,12 +1,14 @@
+package com.company;
+
 import java.util.Scanner;
 
-public class Exercise4 {
+public class Exercise10 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter first number");
-        int firstNumber = scanner.nextInt();
+        int a = scanner.nextInt();
         System.out.println("Enter second number");
-        int secondNumber= scanner.nextInt();
-        System.out.println(firstNumber%secondNumber);
+        int b = scanner.nextInt();
+        System.out.println(a % b);
     }
 }

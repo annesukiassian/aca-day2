@@ -1,3 +1,5 @@
+package com.company;
+
 public class Exercise6 {
     public static void main(String[] args) {
         int triangleBase = 8;
